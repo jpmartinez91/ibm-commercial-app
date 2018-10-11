@@ -1,5 +1,4 @@
-function main(params)
+function main({ name: name = 'Serverless API' })
 {
-    var name = params.name || 'World';
-    return { payload: 'Hello, ' + name + '!' };
+    return { payload: `Hello world ${name}` };
 }

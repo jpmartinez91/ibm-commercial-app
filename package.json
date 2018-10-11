@@ -1,0 +1,26 @@
+{
+  "name": "ibm",
+  "version": "1.0.0",
+  "description": "Packages for IBM CLoud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmartinez91/ibm-commercial-app.git"
+  },
+  "keywords": [
+    "ibm",
+    "functions",
+    "cloud",
+    "serverless",
+    "actions"
+  ],
+  "author": "Jorge Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmartinez91/ibm-commercial-app/issues"
+  },
+  "homepage": "https://github.com/jpmartinez91/ibm-commercial-app#readme"
+}
